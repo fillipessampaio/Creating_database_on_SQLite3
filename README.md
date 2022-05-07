@@ -1,4 +1,6 @@
-﻿# Python_to_database_SQLite3
+# BUSINESS QUESTIONS WITH SQL
+
+<p align="center"> <img src="img_answering_with_sql.jpeg" width=100% > </p>
 
 ### This script creates a SQLite database, loads csv files and performs queries to answer business questions.
 
